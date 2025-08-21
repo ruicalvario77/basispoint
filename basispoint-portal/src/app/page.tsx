@@ -5,6 +5,7 @@ import styles from "./page.module.css";
 import { ChevronDownIcon } from '@heroicons/react/24/outline';
 import { motion } from 'motion/react';
 
+
 export default function Home() {
   return (
     <div className={styles.page}>
